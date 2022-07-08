@@ -91,5 +91,8 @@
       }
     }
   },
-  "defaultProject": "my-recipe-app"
+  "defaultProject": "my-recipe-app",
+  "cli": {
+    "analytics": false
+  }
 }
